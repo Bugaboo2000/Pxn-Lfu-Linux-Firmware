@@ -123,3 +123,12 @@ A solução segue o seguinte fluxo:
 ### Conclusão
 
 Este projeto atua como uma camada de compatibilidade para controles PXN no Linux através da virtualização da entrada. Apesar de não ser uma solução perfeita, oferece um workaround prático para melhorar o reconhecimento do controle em ambientes onde o suporte nativo é limitado.
+
+## Legal Disclaimer
+
+This project is an independent, community-driven effort and is not affiliated with, endorsed by, or associated with PXN in any way.
+
+All trademarks, product names, and brand names are the property of their respective owners. This project does not contain or distribute any proprietary PXN firmware or intellectual property.
+
+The purpose of this project is solely to provide compatibility improvements for hardware legally owned by users.
+
