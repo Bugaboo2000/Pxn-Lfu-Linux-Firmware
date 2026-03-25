@@ -1,0 +1,12 @@
+[Unit]
+Description=PXN Shifter Driver
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/pxn_shifter2.0
+Restart=on-failure
+User=sparky
+
+[Install]
+WantedBy=multi-user.target
