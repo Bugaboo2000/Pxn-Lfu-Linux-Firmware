@@ -6,7 +6,7 @@ After=multi-user.target
 Type=simple
 ExecStart=/usr/bin/pxn_shifter2.0
 Restart=on-failure
-User=sparky
+DynamicUser=yes
 
 [Install]
 WantedBy=multi-user.target
